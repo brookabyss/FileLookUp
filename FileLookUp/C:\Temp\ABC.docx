@@ -1,0 +1,914 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f290\froman\fcharset238\fprq2 Times New Roman CE;}{\f291\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f293\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f294\froman\fcharset162\fprq2 Times New Roman Tur;}{\f295\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f296\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f297\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f298\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f310\fmodern\fcharset238\fprq1 Courier New CE;}{\f311\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f313\fmodern\fcharset161\fprq1 Courier New Greek;}
+{\f314\fmodern\fcharset162\fprq1 Courier New Tur;}{\f315\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f316\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f317\fmodern\fcharset186\fprq1 Courier New Baltic;}
+{\f318\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \sbasedon10 \ssemihidden footnote reference;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\rsidtbl \rsid3160095\rsid11865221}{\*\generator Microsoft Word 11.0.5604;}{\info{\title Prinsloo v van der Linde and another CCT 4/96}{\author Ruth Ward}
+{\keywords South Africa; Forest Act 122 of 1984; presumption of negligence; constitutionality; fire}{\operator owner}{\creatim\yr2008\mo7\dy22\hr13\min38}{\revtim\yr2008\mo7\dy22\hr13\min38}{\version2}{\edmins1}{\nofpages51}{\nofwords10745}
+{\nofchars61253}{\*\company wits}{\nofcharsws71855}{\vern24689}}\paperw11905\paperh16837\margl1440\margr1440 
+\widowctrl\ftnbj\aenddoc\aftnnar\notabind\wraptrsp\transmf\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\lytprtmet\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow1\dgvshow0
+\jexpand\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\bdrrlswsix\htmautsp\nolnhtadjtbl\oldas\rsidroot3160095 \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\insrsid11865221 \chftnsep 
+\par }}{\*\ftnsepc \pard\plain \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid11865221 \chftnsepc 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid11865221 \chftnsep 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\insrsid11865221 \chftnsepc 
+\par }}\sectd \linex0\headery1440\footery1440\sectdefaultcl\sftnbj\saftnnar {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}
+{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs31\lang2057\langfe1033\langnp2057\insrsid3160095 CONSTITUTIONAL COURT OF SOUTH AFRICA}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\b\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }\pard \qr \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Case CCT 4/96
+\par 
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par WILLEM M PRINSLOO \tab \tab \tab \tab \tab \tab \tab \tab    Applicant
+\par 
+\par versus
+\par 
+\par GERHARDUS STEPHANUS VAN DER LINDE\tab \tab \tab  First Respondent
+\par 
+\par THE MINISTER OF FORESTRY AND WATER AFFAIRS\tab         Second Respondent
+\par 
+\par 
+\par Heard on: \tab 7 November 1996
+\par 
+\par Decided on:\tab 18 April 1997
+\par 
+\par 
+\par }\pard \qj \li0\ri0\sl-19\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\lang1024\langfe1024\noproof\insrsid11865221 
+{\shp{\*\shpinst\shpleft1440\shptop0\shpright10465\shpbottom19\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt1\shpz0\shplockanchor\shplid1026{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fillColor}{\sv 0}}{\sp{\sn fillBackColor}{\sv 0}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fShadow}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt0\dprect\dpx1440\dpy0\dpxsize9025\dpysize19\dpfillfgcr0\dpfillfgcg0\dpfillfgcb0\dpfillbgcr0\dpfillbgcg0\dpfillbgcb0\dpfillpat1\dplinehollow}}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qc \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 JUDGMENT
+\par 
+\par }\pard \qj \li0\ri0\sl-19\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\lang1024\langfe1024\noproof\insrsid11865221 
+{\shp{\*\shpinst\shpleft1440\shptop0\shpright10465\shpbottom19\shpfhdr0\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt1\shpz1\shplockanchor\shplid1027{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fillColor}{\sv 0}}{\sp{\sn fillBackColor}{\sv 0}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fShadow}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt1\dprect\dpx1440\dpy0\dpxsize9025\dpysize19\dpfillfgcr0\dpfillfgcg0\dpfillfgcb0\dpfillbgcr0\dpfillbgcg0\dpfillbgcb0\dpfillpat1\dplinehollow}}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par 
+\par ACKERMANN J, O\rquote REGAN J AND SACHS J:
+\par 
+\par 
+\par \sect }\sectd \sbknone\linex0\headery1440\footery1440\sectdefaultcl\sftnbj\saftnnar {\header \pard\plain \qr \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 ACKERMANN J/O}{\f2\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4035\'3f}{\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 REGAN J/SACHS J
+\par }\pard \ql \li0\ri0\sl-240\slmult0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }}{\footer \pard\plain \ql \li0\ri0\sl-240\slmult0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24\insrsid3160095 
+\par }\pard \qc \li0\ri0\widctlpar\pvpara\posx0\posy0\absw9026\nowrap\nooverflow\faroman\rin0\lin0\itap0 {\field{\*\fldinst {\fs24\insrsid3160095 PAGE}}{\fldrslt {\fs24\lang1024\langfe1024\noproof\insrsid11865221 51}}}{\fs24\insrsid3160095 
+\par }\pard \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs24\insrsid3160095 
+\par }}\pard\plain \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\r 1}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 1}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Much of South Africa is tinder dry.  Veld, forest and mountain fires sweep across the land, causing immense damage to property and destroying valuable forest, flora and fauna.  The Forest Act 122 of 1984 (the \'93Act\'94
+) has as one of its principal objects the 
+prevention and control of such fires.  A major method of achieving this is to create various fire control areas where schemes of compulsory fire control are established, with special emphasis on the clearing and maintenance of fire belts between neighbour
+ing properties.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Part VI of the Act deals with these issues.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  Landowners in areas outside of such fire control areas are, on the other hand, encouraged but not required to embark on similar fire control measures.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain 
+\qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+\tab Section 24.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   A number of provisions prescribe criminal penalties for landowners in fire control areas who fail to fulfil their statutory obligations.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Sections 75(7) and (8).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  In addition, an offence is created in respect of persons who are wilfully or negligently responsible for fires \'93in the open air\'94,}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain 
+\qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+\tab Section 75(2)(b).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  while it is an offence for any landowner in any area to fail to take such steps as are under the circumstances reasonably necessary to prevent the spread of fires.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Section 75(8)(f).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 2}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+One provision in the Act dealing expressly with responsibility for a fire on land outside of a fire control area is section 84.  It reads as follows:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\b\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'9384.  Presumption of negligence.}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+ - When in any action by virtue of the provisions of this Act or the c
+ommon law the question of negligence in respect of a veld, forest or mountain fire which occurred on land situated outside a fire control area arises, negligence is presumed, until the contrary is proved.\'94
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 It is the constitutionality of this provision which is under consideration in the present matter.
+\par }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 THE REFERRAL}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 3}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The present matter comes before us by way of a referral made in terms of section 102(1) of the Constitution of the Republic of South Africa, 1993 (the \'93interim Constitution\'94)}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn 
+{\footnote \pard\plain \qj \fi-720\li720\ri0\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{
+\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Which provides the following:
+\par }\pard \qj \li720\ri720\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li1440\ri1440\sa237\widctlpar\nooverflow\faroman\rin1440\lin1440\itap0 {\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4031\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095 
+If, in any matter before a provincial or local division of the Supreme Court, there is an issue which may be decisive for the case, and which falls within the exclusive jurisdiction of the Constitutional
+ Court in terms of section 98(2) and (3), the provincial or local division concerned shall, if it considers it to be in the interest of justice to do so, refer such matter to the Constitutional Court for its decision . . .}{
+\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4032\'3f}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ by Van der Walt DJP in the Transvaal Provincial Division of the Supreme Court (as it was then called).  Action had been instituted in that division by the first respondent (as plaintiff) as a result of damage allegedly caused to his farmlands by the spre
+ad of a fire from the neighbouring land of the applicant (defendant in those proceedings).}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 
+When the matter was referred to this Court, the Minister of Water Affairs and Forestry, acting in terms of section 102(10) of the interim Constitution, intervened as second respondent, in order to defend the validity of section 84 of the Act.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   It was common cause in this Court that the fire occurred on land situated outside a fire control area.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 4}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+As this Court has held on a numbe
+r of occasions, a court should only exercise its power under section 102(1) after it is satisfied: first, that the issue falls within the exclusive jurisdiction of the Constitutional Court; secondly, that it may be decisive for the case; and, thirdly, tha
+t it would be in the interest of justice for the referral to take place.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 S v Mhlungu and Others}{
+\lang2057\langfe1033\langnp2057\insrsid3160095  1995 (3) SA 867 (CC); 1995 (7) BCLR 793 (CC) at para 59;}{\i\lang2057\langfe1033\langnp2057\insrsid3160095  Ferreira v Levin NO and Others; Vryenhoek and Others v Powell NO and Others}{
+\lang2057\langfe1033\langnp2057\insrsid3160095  1996 (1) SA 984 (CC); 1996 (1) BCLR 1 (CC) at para 8;  }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Bernstein and Others v Bester and Others NNO }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+1996 (2) SA 751 (CC); 1996 (4) BCLR 449 (CC) at para 2;  }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Luitingh v Minister of Defence}{\lang2057\langfe1033\langnp2057\insrsid3160095  1996 (2) SA 909 (CC); 1996 (4) BCLR 581 (CC) at paras 4-6.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 5}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Dealing with the second requirement, Didcott J in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Luitingh v Minister of Defence}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  held that the requirement was satisfied \'93
+once the ruling given there may have a crucial bearing on the eventual outcome of the case as a whole, or on any significant aspect of the way in which its remaining parts ought to be handled\'94.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Id at para 9.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   In }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+Brink v Kitshoff NO,}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  Chaskalson P commented that this would include an issue which, if decided in favour of the party who raised it, would put an end to or materially curtail the litigation.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 1996 (4) SA 197 (CC); 1996 (6) BCLR 752 (CC) at para 10.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  It would also include an issue such as the onus of proof in relation to the admissibility of a confession in a criminal trial, which arose in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 S v Zuma and Others}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 1995 (2) SA 642 (CC); 1995 (4) BCLR 401 (SA).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  and }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 S v Mhlungu and Others}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 .}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain 
+\qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+\tab Supra n 8.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   In }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Zuma}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 \rquote 
+s case the decision of the entire case in fact depended on where the onus lay.  In }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Mhlungu}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 \rquote 
+s case a ruling would determine the way in which the voir dire was to be conducted, and was also necessary in fairness to the accused to enable them to decide whether or not to give evidence.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 6}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Van der Walt DJP issued an order granting the application.  His reasons appear from an annexure to the order in the following terms:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+1.3     Dit is van wesenlike belang dat die geskilpunt of die vermoede van skuld geskep soos in Artikel 84 ongrondwetlik is al dan nie, en daarop staat gemaak kan word al dan nie, beslis word voordat die verhoor tussen die Applikant en eerste Respondent 
+\lquote n aanvang neem, omdat dit sal bepaal watter getuies die gedingspartye (indien enige) gaan roep as getuies om die party wat die bewyslas dra hom daarvan te laat kwyt, en wie die beginlas om met die verhoor op die meriete te begin dra.
+\par 1.4     Hierdie is nie \lquote n geval waar die vraag of Artikel 84 grondwetlik bestaanbaar is al dan nie eers uitgemaak kan word nadat getuienis oor die ander geskilpunte tussen die partye aangehoor is en feitebevidings [sic] daaroor gemaak i
+s wat tersake kan wees nie, omdat die vraag na wie die bewyslas en beginlas dra, van deurslaggewende belang is vir hoe die saak deur die partye in die hof aangevoer moet word.\'94}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn 
+{\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{
+\lang2057\langfe1033\langnp2057\insrsid3160095 \tab As contained in annexure }{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4031\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095 B}{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 
+\uc1\u-4032\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095  to the referral judgement entitled: }{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4031\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095 Formulering
+ Van Geskilpunt En Redes Vir Verwysing}{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4032\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095 .}}}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 7}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab In the case of }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Stevens v Stevens}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ,}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 1996 (3) BCLR 384 (O) at 390E-G.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ Wright J came to the opposite conclusion in an action which was also brought under the Act.  His opinion
+ that a referral of the constitutionality of section 84 of the Act was, at that stage, not in the interest of justice was based on the probability that either of the parties would be able, without the assistance of the presumption, to either prove or disp
+r
+ove the negligence of the defendant.  It is neither necessary nor desirable to attempt to resolve the apparent conflict between the conclusions of Van der Walt DJP and Wright J because every case must be decided on its own particular facts and circumstanc
+e
+s and what is essentially a judgment on the peculiar facts and pleadings before a judge requested to refer a matter in terms of section 102(1) cannot be elevated to a rule of law which is capable of automatic application to the referral of all other cases
+ brought under the Act.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 8}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Van der Walt DJP clearly formed the view, as is evident from the above reasons, that the ruling on the
+ constitutionality of section 84 of the Act might have a crucial bearing on a significant aspect of the way in which the parties would conduct their cases.  This brings it within the formulation of the requirement in }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Luitingh}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  quoted above.  It cannot confi
+dently be stated that Van der Walt DJP was wrong in the judgment he formed in this regard and accordingly it cannot be concluded that this particular referral requirement was not met.  That Van der Walt DJP must have considered it in the interest of justi
+c
+e to refer the matter at that stage follows inevitably from the reasons furnished regarding the crucial importance of deciding the incidence of onus at the commencement of the proceedings.  The learned judge did not furnish explicit reasons why he conside
+r
+ed that there was a reasonable prospect of the section being declared unconstitutional, but at the time that the referral was made there was little guidance on the construction of section 8, which is a matter of some complexity.  Under these circumstances
+ 
+it is fair to infer that, at the time and in the context of the referral, Van der Walt DJP must have considered that there was such a reasonable prospect.  In any event no useful purpose would be served in the circumstances of this particular case by cons
+idering how the applicant\rquote 
+s prospects of success on the constitutional challenge looked at the time of the referral.  Full argument has been heard on the challenge and the Court is in a position to deal with that definitely and finally.  In our view the ref
+erral should be accepted and the merits of the constitutional challenge to section 84 considered.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 9}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The issues in the referral were formulated as follows:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \fi-720\li1440\ri720\sl360\slmult1\widctlpar\tx-1440\nooverflow\faroman\rin720\lin1440\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'932.\tab Die geskilpunt tussen die partye is meer in die besonder di
+e vraag of die vermoede van skuld wat geskep word deur Artikel 84 van die Boswet nie in botsing is met die fundamentele regte vervat in Hoofstuk 3 van die Grondwet nie, en meer in die besonder:
+\par }\pard \qj \fi-720\li2160\ri1440\sl360\slmult1\widctlpar\tx-1440\nooverflow\faroman\rin1440\lin2160\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 2.1\tab Die reg op gelykheid voor die reg en op gelyke beskerming 
+deur die reg soos vervat in artikel 8(1) van die Grondwet;
+\par 2.2\tab Die verbod op diskriminasie soos vervat in artikel 8(2) van die Grondwet;
+\par 2.3\tab Die reg om onskuldig geag te word totdat skuld bewys word soos vervat word [in] Artikel 25(3)(c) van die Grondwet.\'94
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+Whether there is a constitutional right to a fair civil trial and, if so, whether an onus provision such as that provided for in section 84 might infringe such right, are issues with which we are not concerned in this case and on which we need express no
+ view.  Counsel for the applicant expressly renounced reliance on any such argument.
+\par 
+\par }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 PRESUMPTION OF INNOCENCE: SECTION 25(3)(c)}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 10}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In his written and oral argument, counsel for the applicant focused primarily on the third point, namely an alleged violation of the right to be presumed innocent, as contained in section 25(3)(c) of the interim Constitution.  The obvious difficulty he ha
+d
+ to overcome was that the applicant was a defendant in a civil trial and not an accused in a criminal trial.  In order to circumvent this problem, he argued that the test to be adopted was an objective one, which did not depend upon the subjective situati
+on of the applicant, but rather on the objective reach of the provision.  Thus, if the impugned section, objectively speaking, was unconstitutional, it would be of no force and effect for civil as well as criminal trials.  The word \'93action\'94
+, he contended, was ambiguous and had to be read in its context, particularly in relation to the fact that the Afrikaans text used the word \'93geding\'94, which corresponded to the wide English term \'93proceedings\'94.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab The English text is the signed copy.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   Furthermore, criminal p
+rosecutions in fact frequently took place and section 84 of the Act was used to establish guilt.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 
+Other than this assertion, no evidence was placed before the Court to support this contention.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   It followed that the word \'93action\'94 was wide enough to includ
+e criminal as well as civil proceedings, with the result that it infringed the rights of accused persons as protected by section 25(3)(c).  Once it was invalid because of its application to criminal trials, he concluded, it lost all its force and effect a
+nd accordingly could not be invoked in civil proceedings.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 11}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In our opinion, counsel was wrong both in relation to his approach to interpretation and in respect of the consequences of the construction he urged upon us.  
+We shall make the following assumptions (most of them very questionable) in his favour (without deciding the correctness of any of them): That standing of a civil claimant to challenge a \'93reverse onus\'94
+ in a civil trial provides standing to challenge the constitutionality of a statutory reverse onus provision relating to criminal trials, even when that claimant is not in jeopardy of prosecution;}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab See the majority judgment in }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Ferreira v Levin}{
+\lang2057\langfe1033\langnp2057\insrsid3160095  supra n 8 at paras 165-6.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  that the word \'93action\'94 in section 84 is
+ wide enough to encompass criminal proceedings; that there is sufficient material before this Court to enable us to determine whether a reverse onus in a criminal trial would be unconstitutional; and that in fact such a reverse onus in a criminal trial wo
+uld be unconstitutional.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 12}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Even on these assumptions, there is one insuperable obstacle to counsel\rquote s  argument, and that is the approach to interpretation enjoined upon us by section 35(2) of the interim Constitution, which reads as follows:}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+No law which limits any of the rights entrenched in this Chapter, shall be constitutionally invalid solely by reason of the fact that the wording used }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 prima facie}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+ exceeds the limits imposed in this Chapter, provided such a law is reasonably capable of a more restricted interpretation which does not exceed such limits, in which event such law shall be construed as having a meaning in accordance with the said more r
+estricted interpretation.\'94
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {
+\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 13}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab Its terms are peremptory.  Our task is not to find the one \'93correct\'94
+ interpretation of a statutory provision, but, given more than one reasonably possible construction, to prefer one which 
+is consistent with the interim Constitution.  In this respect, ambiguity does not help the applicant.  On the contrary, any ambiguity must be resolved by favouring the construction which keeps the provision constitutionally alive, provided the constructio
+n is reasonable.  In keeping with this approach, we have no difficulty in deciding that even if the word \'93action\'94
+ was capable of including criminal proceedings, and even if such inclusion resulted in an unconstitutional invasion of a right to a fair crimina
+l trial, it was also reasonably capable of a more restricted meaning which excluded criminal trials and thereby avoided unconstitutionality.  It follows that in terms of section 35(2) the latter interpretation would be preferred.  Even if all the assumpti
+ons made in  paragraph 11 above were correct, a proposition which is open to doubt, the attack based on section 25(3)(c) would still fail.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 14}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In addition, even a finding in favour of the applicant\rquote s argument concerning s
+ection 25(3)(c) would not enable him to get around a further obstacle.  The very kind of situation contended for by counsel, namely that section 25(3)(c) rendered section 84 unconstitutional in part, appears to have been contemplated by the interim Consti
+tution, and answered in quite a different way to that for which he contends.  Section 98(5) of the interim Constitution provides as follows:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+In the event of the Constitutional Court finding that any law or any provision thereof is inconsistent with this Constitution, it shall declare such law or provision invalid }{\fs22\ul\lang2057\langfe1033\langnp2057\insrsid3160095 
+to the extent of its inconsistency}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  . . .\'94 (our emphasis)
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Thus, even if this Court were to hold that section 84 necessarily included criminal as well as civil proceedings, and that the presumption
+ in relation to criminal trials was unconstitutional, it would have to declare in any order that it made that the provisions of the section were inconsistent only to the extent that they applied to criminal proceedings.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Ferreira v Levin }{\lang2057\langfe1033\langnp2057\insrsid3160095 supra n 8 at para
+ 131; }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Bernstein v Bester NNO}{\lang2057\langfe1033\langnp2057\insrsid3160095  supra n 8 at para 49.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  The applicant can therefore not succeed in the attack based on section 25(3)(c) of the interim Constitution.
+\par }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par THE EQUALITY ISSUES: SECTION 8}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 15}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+While the attack based on section 8 was not strongly pressed by counsel for the applicant, it must nevertheless be given due consideration.  For present purposes the relevant provisions of Section 8 of the interim Constitution read as follows:}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93}{\b\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 Equality.}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \fi-1440\li2160\ri720\sl360\slmult1\widctlpar\tx-1440\nooverflow\faroman\rin720\lin2160\itap0 {\b\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 8.}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \tab (1)\tab 
+Every person shall have the right to equality before the law and to equal protection of the law.
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \fi-720\li2160\ri720\sl360\slmult1\widctlpar\tx-1440\nooverflow\faroman\rin720\lin2160\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 (2)\tab 
+No person shall be unfairly discriminated against, directly or indirectly, and, without derogating from the generality of this provision, on one or
+ more of the following grounds in particular: race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, culture or language.
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \fi-720\li2160\ri720\sl360\slmult1\widctlpar\tx-1440\nooverflow\faroman\rin720\lin2160\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 (3)(}{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 a}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 )\tab 
+This section shall not preclude measures designed to achieve the adequate protection and advancement of persons or groups or categories of persons disadvantaged by unfair discrimination, in order to enable their full and equal enjoyment of all rights and 
+freedoms.
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li1440\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin1440\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 (}{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 b}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+) . . .
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \fi-720\li2160\ri720\sl360\slmult1\widctlpar\tx-1440\nooverflow\faroman\rin720\lin2160\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 (4)\tab }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 Prima facie }{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+proof of discrimination on any of the grounds specified in subsection (2) shall be presumed to be sufficient proof of unfair discrimination as contemplated in that subsection, until the contrary is established.\'94
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 16}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In his written argument, counsel pointed to the differentiation between defendants in veld fire cases and those in other delictual matters.  According to him, this differentiation had no rational basis, because the apparen
+t object that the legislature sought to achieve by reversing the general rule regarding the incidence of onus that whoever avers must prove, could have been, and, indeed, already was, accomplished by means of common law aids to proof.  He referred in part
+icular to the concept of res ipsa loquitur}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Hoffmann and Zeffertt }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 
+The South African Law of Evidence}{\lang2057\langfe1033\langnp2057\insrsid3160095  4 ed (Butterworths, Durban 1988) at 551.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ and the practice of triers of fact to require less evidence to establish a prima facie case if the facts in issue are peculiarly within the knowledge of the opposing party.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn 
+{\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{
+\lang2057\langfe1033\langnp2057\insrsid3160095 \tab }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Union Government (Minister of Railways) v Sykes}{\lang2057\langfe1033\langnp2057\insrsid3160095 
+ 1913 AD 156 at 173-4.  See also Hoffmann and Zeffert  id at 512.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   A second differentiation which was raised by first respondent, relates to the fa
+ct that the presumption of negligence applies only in respect of fires in non-controlled areas, and not to those spreading in controlled areas, which at first blush appears to be incongruous.  The challenge to constitutionality in both cases would be base
+d
+ either on a breach of the right to equality as guaranteed in section 8(1) or on a violation of the prohibition of discrimination contained in section 8(2).  To determine whether either challenge in terms of section 8 is correct, it is necessary to consid
+er first the proper approach to be taken to sections 8(1) and (2).
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 17}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+If each and every differentiation made in terms of the law amounted to unequal treatment that had to be justified by means of resort to section 33, or
+ else constituted discrimination which had to be shown not to be unfair, the courts could be called upon to review the justifiability or fairness of just about the whole legislative programme and almost all executive conduct.  As Hogg puts it:}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93What is me
+ant by a guarantee of equality?  It cannot mean that the law must treat everyone equally.  The Criminal Code imposes punishments on persons convicted of criminal offences; no similar burdens are imposed on the innocent.  Education Acts require children to
+ 
+attend school; no similar obligation is imposed on adults.  Manufacturers of food and drugs are subject to more stringent regulations than the manufacturers of automobile parts.  The legal profession is regulated differently from the accounting profession
+.
+  The Wills Act prescribes a different distribution of the property of a person who dies leaving a will from that of a person who dies leaving no will.  The Income Tax Act imposes a higher rate of tax on those with high incomes than on those with low inco
+mes.  Indeed, every statute or regulation employs classifications of one kind or another for the imposition of burdens or the grant of benefits.  Laws never provide the same treatment for everyone.\'94}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Hogg}{\i\lang2057\langfe1033\langnp2057\insrsid3160095  Constitutional Law of Canada}{\lang2057\langfe1033\langnp2057\insrsid3160095 
+ 3 ed (Carswell, Ontario 1992) at para 52.6(b).}}}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+The courts would be compelled to review the reasonableness or the fairness of every classification of rights, duties, privileges, immunities, benefits or disadvantages flowing from any law.  Accordingly, it is necessary to identi
+fy the criteria that separate legitimate  differentiation from differentiation that has crossed the border of constitutional impermissibility and is unequal or discriminatory \'93in the constitutional sense\'94.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab A phrase used by Didcott J in }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 S v Ntuli}{
+\lang2057\langfe1033\langnp2057\insrsid3160095  1996 (1) SA 1207 (CC); 1996 (1) BCLR 141 (CC) at para 19.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 18}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Even a cursory summary of international experience indicates that there are n
+o universally accepted bright lines for determining whether or not an equality or non-discrimination right has been breached.  The varying emphases given in different countries depend on a combination of the texts to be interpreted, modes of doctrinal art
+iculation, historical backgrounds and evolving standards.  Questions of institutional function and competence might play a role when reviewing, for example, legislation of a social and economic character.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Nowak and Rotunda }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Constitutional Law}{\lang2057\langfe1033\langnp2057\insrsid3160095 
+ 5 ed (West Publishing Co., St. Paul, Minnesota 1995) at 362.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 19}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+ In relation to the text and context of the interim Constitution, it would therefore seem that a simplistic transplantation from other countries into our equality juri
+sprudence of formulae, modes of classification or degrees of scrutiny, might create more problems than it solved.  At the same time, we must be mindful of section 35(1) which states:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \fi720\li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93}{\b\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 Interpretation.}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\b\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 35.  }{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  (1) In interpreting the provisions of this Chapt
+er a court of law shall promote the values which underlie an open and democratic society based on freedom and equality . . .\'94
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 20}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab Our country has diverse communities with different historical experiences and living cond
+itions.  Until recently, very many areas of public and private life were invaded by systematic legal separateness coupled with legally enforced advantage and disadvantage.  The impact of structured and vast inequality is still with us despite the arrival 
+o
+f the new constitutional order.  It is the majority, and not the minority, which has suffered from this legal separateness and disadvantage.  While our country, unfortunately, has great experience in constitutionalising inequality, it is a newcomer when i
+t
+ comes to ensuring constitutional respect for equality.  At the same time, South Africa shares patterns of inequality found all over the globe, so that any development of doctrine relating to section 8 would have to take account both of our specific situa
+t
+ion and of the problems which our country shares with the rest of humanity.  All this reinforces the idea that this Court should be astute not to lay down sweeping interpretations at this stage but should allow equality doctrine to develop slowly and, hop
+efully, surely.  This is clearly an area where issues should be dealt with incrementally and on a case by case basis with special emphasis on the actual context in which each problem arises.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 21}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab In }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Brink v Kitshoff NO}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 , a 
+general review was conducted of the approaches adopted in Canada, the United States of America, India and in international conventions and covenants.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain 
+\qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+\tab Supra n 10 at paras 34-9.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   That review concluded:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93. . . that the various conventions and national con
+stitutions are differently worded and that the interpretation of national constitutions, in particular, reflects different approaches to the concepts of equality and non-discrimination.  The different approaches adopted in the different national jurisdict
+ions arise not only from different textual provisions and from different historical circumstances, but also from different jurisprudential and philosophical understandings of equality.\'94}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 
+\chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{
+\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Id at para 39 per O}{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4035\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095 Regan J, a judgment concurred in by all the members of the Court. }}
+}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+The Court emphasised that section 8 is the product of our own particular history, that perhaps more so than in the case of other provisions in Chapter 3 the interpretation of section 8 must be based on its own language and that our hist
+ory was particularly relevant to the concept of equality.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 
+Id at para 40.  The preamble to the interim Constitution underlines the need for this approach.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 22}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+When section 8 is read as a whole it appears that the concept of equality is referred to in different ways.  In section 8(1) it is described positively as a \'93right to equality before the law\'94 and as a \'93right . . . to equal protection of the law
+\'94.  In section 8(2) it is formulated negatively: \'93No person shall be unfairly discriminated against, directly or indirectly. . .\'94
+.  It may be neither desirable nor feasible to divide the various subsections or descriptions into watertight compartments.  Nonetheless, it would appear that the right to \'93equality before the law\'94 is concerned more particularly with entitling \'93
+everybody, at the very least, to equal treatment by our courts of law\'94.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Supra n 22 at para 18 per Didcott J for the Court. }}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   I
+t makes clear that no-one is above or beneath the law and that all persons are subject to law impartially applied and administered.  This right, or this aspect of the right guaranteed, does not apply to the present case. 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 23}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The idea of differentiation (to employ a neutral descriptive term) seems to lie at the heart of equality jurisprudence in general and of the section 8 right or rights in particular.   Taking as comprehensive a view as possible of the way equality is 
+treated in section 8, we would suggest that it deals with differentiation in basically two ways:  differentiation which does not involve unfair discrimination and differentiation which does involve unfair discrimination.  This needs some elaboration.  We 
+deal with the former first.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 24}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+It must be accepted that, in order to govern a modern country efficiently and to harmonise the interests of all its people for the common good, it is essential to regulate the affairs of it
+s inhabitants extensively.  It is impossible to do so without differentiation and without classifications which treat people differently and which impact on people differently.  It is unnecessary to give examples which abound in everyday life in all democ
+r
+acies based on equality and freedom.  Differentiation which falls into this category very rarely constitutes unfair discrimination in respect of persons subject to such regulation, without the addition of a further element.  What this further element is w
+ill be considered later.  
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 25}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+It is convenient, for descriptive purposes, to refer to the differentiation presently under discussion as \'93mere differentiation\'94.  In regard to mere differentiation the constitutional state 
+is expected to act in a rational manner.  It should not regulate in an arbitrary manner or manifest \'93naked preferences\'94}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain 
+\qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+\tab Sunstein }{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4031\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095 Naked Preferences and the Constitution}{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4032\'3f}{
+\lang2057\langfe1033\langnp2057\insrsid3160095  84 }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Columbia Law Review}{\lang2057\langfe1033\langnp2057\insrsid3160095  1689 (1984).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ that serve no legitimate governmental purpose, 
+for that would be inconsistent with the rule of law and the fundamental premises of the constitutional state.  The purpose of this aspect of equality is, therefore, to ensure that the state is bound to function in a rational manner.  This has been said to
+ promote the need for governmental action to relate to a defensible vision of the public good,}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab See Tribe }{
+\i\lang2057\langfe1033\langnp2057\insrsid3160095 American Constitutional Law}{\lang2057\langfe1033\langnp2057\insrsid3160095  (Foundation Press Inc., Mineola 1988) at 1451.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ as well as to enhance the coherence and integrity of legislation.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Van Dijk and Van Hoof }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 
+Theory and Practice of the European Convention on Human Rights}{\lang2057\langfe1033\langnp2057\insrsid3160095  2 ed (Kluwer, Deventer 1990) at 539.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   In Mureinik\rquote 
+s celebrated formulation, the new constitutional order constitutes \'93a bridge away from a culture of authority . . . to a culture of justification\'94.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain 
+\qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+\tab Mureinik }{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4031\'3f}{\lang2057\langfe1033\langnp2057\insrsid3160095 A Bridge to Where? Introducing the Interim Bill of Rights}{\f2\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4032\'3f}
+{\lang2057\langfe1033\langnp2057\insrsid3160095  (1994) 10 }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 SA Journal of Human Rights}{\lang2057\langfe1033\langnp2057\insrsid3160095  31 at 32, cited in }{
+\i\lang2057\langfe1033\langnp2057\insrsid3160095 S v Makwanyane and Another}{\lang2057\langfe1033\langnp2057\insrsid3160095  1995 (3) SA 391 (CC); 1995 (6) BCLR 665 (CC) at para 156 n 1.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 26}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Accordingly, before it can be said that mere differentiation infringes section 8 it must be established that there is no rational relationship between the differentiation in question and the governmental purpose which is proffered 
+to validate it.  In the absence of such rational relationship the differentiation would infringe section 8.  But while the existence of such a rational relationship is a necessary condition for the differentiation not to infringe section 8, it is not a su
+fficient condition; for the differentiation might still constitute unfair discrimination if that further element, referred to above, is present. 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 27}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+It is to section 8(2) that one must look in order to determine what thi
+s further element is.  For reasons which will subsequently emerge it is unnecessary to consider the precise ambit or limits of this subsection.  It is, however, clearly a section which deals not with all differentiation or even all discrimination but only
+ with unfair discrimination.  It does so by distinguishing between two forms of unfair discrimination and dealing with them differently. 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 28}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The first form relates to certain specifically enumerated grounds (\'93specified grounds\'94
+) on the basis whereof no person may unfairly be discriminated against.  The specified grounds are race, gender, sex, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, culture or language.  When ther
+e is prima facie proof of discrimination on these grounds it is presumed, in terms of subsection (4), that unfair discrimination has been sufficiently proved, until the contrary is established.  These are not the only grounds which would constitute unfair
+ discrimination.  The words \'93without derogating from the generality of this provision\'94
+, which introduce the specified grounds, make it clear that the specified grounds are not exhaustive.  The second form is constituted by unfair discrimination on grounds w
+hich are not specified in the subsection.  In regard to this second form there is no presumption in favour of unfairness.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 29}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The question arises as to what grounds of discrimination this second form includes.  A purely literal reading and application of the phrase \'93without derogating from the generality of this provision\'94
+ would lead to the conclusion that discrimination on any ground whatsoever is proscribed, provided it is unfair.  Such a reading would provide no guidan
+ce as to what unfair meant in regard to this second form of discrimination.  It would provide very little, if any, guidance in deciding when a differentiation which passed the rational relationship threshold constituted unfair discrimination.  It also see
+m
+s unlikely that the content of the concept unfair discrimination would be left to unguided judicial judgment.  We are of the view, however, that when read in its full historical and evolutionary context and in the light of the purpose of section 8 as a wh
+ole, and section 8(2) in particular, the second form of unfair discrimination cannot be given such an extremely wide and unstructured meaning.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 30}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Proper weight must be given to the use of the word \'93discrimination\'94 in sub
+section (2).  The drafters of section 8 did not, for example, follow the model of the Fourteenth Amendment to the Constitution of the United States which, in paragraph 1 thereof, refers only to the denial of \'93the equal protection of the laws.\'94
+  Section 8(1) certainly positively enacts the encompassing and important right to \'93equality before the law and to equal protection of the law\'94, but section 8 does not stop there.  It goes further and in section 8(2) proscribes \'93
+unfair discrimination\'94 in the two forms we have mentioned.  
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 31}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The proscribed activity is not stated to be \'93unfair }{\fs26\ul\lang2057\langfe1033\langnp2057\insrsid3160095 differentiation}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 \'94 but is stated to be \'93unfair }{
+\fs26\ul\lang2057\langfe1033\langnp2057\insrsid3160095 discrimination}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 \'94.  Given the history of this country we are of the view that \'93discrimination\'94
+ has acquired a particular pejorative meaning relating to the unequal treatment of people based on attributes and characteristics attaching to them.  We are emerging from a period of our history during which the humanity of the majority of the inhabitants
+ 
+of this country was denied.  They were treated as not having inherent worth; as objects whose identities could be arbitrarily defined by those in power rather than as persons of infinite worth.  In short, they were denied recognition of their inherent dig
+nity.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab See }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 S v Makwanyane}{\lang2057\langfe1033\langnp2057\insrsid3160095 
+ id at paras 262 and 328-30.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  Although one thinks in the first instance of discrimination on the grounds of race and ethnic origin one should never lose sight in any historical evaluation of other forms of discrimination such as t
+hat which has taken place on the grounds of sex and gender.  In our view unfair discrimination, when used in this second form in section 8(2), in the context of section 8 as a whole, principally means treating persons differently in a way which impairs th
+eir fundamental dignity as human beings, who are inherently equal in dignity.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 32}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab In Dworkin
+\rquote s words, the right to equality means the right to be treated as equals, which does not always mean the right to receive equal treatment.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain 
+\qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 
+\tab }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Taking Rights Seriously}{\lang2057\langfe1033\langnp2057\insrsid3160095  (Harvard University Press, Cambridge, Mass 1977) at 227.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  We find support for the approach we advocate in the following passage from the judgment of this Court in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 The President of the Republic of South Africa and Another v Hugo}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 :}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+At the heart of the prohibition of unfair discrimination lies a recognition that the purpose of our new constitutional and democratic order is the establishment of a society in which all h
+uman beings will be accorded equal dignity and respect regardless of their membership of particular groups. The achievement of such a society in the context of our deeply inegalitarian past will not be easy, but that that is the goal of the Constitution s
+hould not be forgotten or overlooked.\'94}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 
+Case No CCT 11/96, in which judgment is being delivered simultaneously with this judgment, at para 41.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par and in which the following passage from }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Egan v Canada}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 
+(1995) 29 CRR (2d) 79 at 104-5, internal footnotes omitted.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  was quoted with approval:
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+This court has recognized that inherent human dignity is at the heart of individual rights in a free and democratic society . . .  More than any other right in the }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 Charter}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 , s.15 gives effect to this notion . . .  Equality, as that concept is enshrined as a fundamental human right within s.15 of the }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 Charter}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 , means nothing if it does not represent a commitment to recognizing each person\rquote s equal worth as a human being, regardless of individual differences.  Equality means that
+ our society cannot tolerate legislative distinctions that treat certain people as second-class citizens, that demean them, that treat them as less capable for no good reason, or that otherwise offend fundamental human dignity.\'94}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Supra n 34 at para 41.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 33}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Where discrimination results in treating persons differently in a way which impairs the
+ir fundamental dignity as human beings, it will clearly be a breach of section 8(2).  Other forms of differentiation, which in some other way affect persons adversely in a comparably serious manner, may well constitute a breach of section 8(2) as well.  I
+t is not necessary to say more than this in the present case, for reasons which emerge later in this judgment.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab See para 41 infra.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 34}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Since the adoption of the interim Constitution, the provisions of section 8 have bee
+n referred to in a number of reported Supreme Court judgments.  In some the reference has been somewhat in passing; in others provisions have been held to be merely regulatory while in certain instances they have been held to constitute a clear breach of 
+t
+he section 8(2) prohibition against unfair discrimination.  The question whether, and to what extent, the protection of section 8 may be invoked by juristic persons has also been considered.  None of these cases has been concerned with the constitutionali
+t
+y of a statutory onus provision in civil cases.  Nor has an attempt been made in any of them to conduct a comprehensive analysis of the proper interpretation of section 8 and in particular the relationship between  section 8(1) and 8(2).  It therefore doe
+s not seem necessary for us to consider or comment on any of them individually.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 35}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Turning now to the case before us, it is necessary in the first place to enquire whether the necessary rational relationship exists betwe
+en the purpose sought to be achieved by section 84 of the Act and the means sought to achieve it.  The objectives of the Act as set out in the long title, are \'93
+[t]o provide for . . . the prevention and combating of veld, forest and mountain fires; . . . and matters connected therewith.\'94
+  In essence, applicant contended that section 84 lacked rationality because it did not use the least onerous means of achieving its objectives.  This approach, however, is based on two misconceptions.  First, the applicant i
+s prematurely importing a criterion for justification into a test to be applied at the infringement enquiry (definitional or threshold) stage.  The question of whether the legislation could have been tailored in a different and more acceptable way is rele
+v
+ant to the issue of justification, but irrelevant to the question of whether there is a sufficient relationship between the means chosen and the end sought, for purposes of the present enquiry.  Second, underlying the argument is an assumption that someho
+w there should be a \'93presumption of innocence\'94 in civil matters as weighty and untouchable as that in criminal cases, so that a reverse onus in a civil matter should be as vulnerable to impeachment as one in a criminal trial.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 36}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In regard to the first misconception, a person seeking to impugn the constitutionality of a legislative classification cannot simply rely on the fact that the state objective could have been achieved in a better way.  As long as there is a rationa
+l relationship between the method and object it is irrelevant that the object could have been achieved in a different way.  In any civil case, one of the parties will have to bear the onus on each of the factual matters material to the adjudication of the
+ 
+dispute. So, in the case of an aquilian claim for damages arising from a veld fire, one of the parties will bear the onus concerning negligence.  As long as the imposition of the onus is not arbitrary, there will be no breach of section 8(1).  In rare cir
+cumstances, it may be that the allocation of onus will impair other constitutional rights and a challenge will then arise.  That is not the case here.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 37}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In regard to the second misconception, an onus in a civil case cannot be equated with the overall onus of proof in criminal cases.  In }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Mabaso v Felix}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab 1981 (3) SA 865 (A).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ the Appellate Division described the fundamental difference between the incidence of the onus of proof in civil and criminal cases in the context of assault as follows:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+In its anxiety that no accused should be punished for a crime without proof of his guilt our common law deliberately places the burden of proving every disputed issue, save insanity, on the prosecution.  But in civil la
+w . . . considerations of policy, practice, and fairness }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 inter partes}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  may require that the defendant should bear the overall }{
+\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 onus}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  of averring and proving an excuse or justification for his otherwise wrongful conduct.\'94}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Id at 872G-H.}}}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 38}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab There is indeed nothing rigid or unchanging in relation to the question of the incidence of the onus of proof in civil matters, no established \'93golden thread\'94
+ like the presumption of innocence that runs through criminal trials.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 S v Zuma}{
+\lang2057\langfe1033\langnp2057\insrsid3160095  supra n 11 at para 33 quoting }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Woolmington v Director of Public Prosecutions}{\lang2057\langfe1033\langnp2057\insrsid3160095  (1935) AC 462 (HL) at 481.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   As Davis AJA, quoting Wigmore, put it:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93. . . all rules dealing with the subject of the burden of proof rest \lquote 
+for their ultimate basis upon broad and undefined reasons of experience and fairness.\rquote \'94}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab }{
+\i\lang2057\langfe1033\langnp2057\insrsid3160095 Pillay v Krishna and Another}{\lang2057\langfe1033\langnp2057\insrsid3160095  1946 AD 946 at 954.}}}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 As long as the rules relating to the onus are rationally based, therefore, no constitutional challenge in terms of section 8 will arise.  
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 39}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The purpose of the Act is to prevent veld fires.  There can be no doubt that the State has a legitimate and strong interest in preventing veld, forest and
+ mountain fires.  It has chosen to fulfil its responsibility by means of the scheme set out in the opening paragraph of this judgment.  In fire control areas there is compulsory participation in schemes to prevent fires spreading, involving shared informa
+tion, planning and execution.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Sections 18 to 23.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  Specific statutory duties are imposed with prescribed penalties for disobedience.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab Sections 75(7) and (8).}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 40}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In non-controlled areas, on the other hand, there are opportunities for joint management on a voluntary basis only, with no obligation, and no necessity for shared management and pooled knowledge.}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab See section 24.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  Persons are left in the dark as to what steps their neighbours have taken to avert fires.  The
+ causes of the fire and its spread will often be peculiarly within the knowledge of the neighbour.  The specific duties imposed on landowners in fire control areas are accordingly counterbalanced by the general inducement contained in section 84 for those
+ 
+responsible for land in non-controlled areas to be specially vigilant lest they find themselves saddled with responsibility for damage caused by fire spreading from their land.  The purpose of section 23 of Act 72 of 1968, the predecessor of the present s
+ection 84, was identified by Fannin J as follows:}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+It was argued on behalf of the plaintiff that the presumption was created in recognition of the peculiar difficulties faced by a person who suffers damage as a result of a fire whose origin he may be wholl
+y unable to establish, and of the fact that, in most cases, if not all, a person from whose land a fire spreads will be in a much better position to show how and where the fire originated, whether it was lit by himself or by anyone for whose acts he is in
+ law responsible and the manner in which the fire was dealt with, if at all, by him or by his servants or agents.  This, I think, is undoubtedly correct.  Furthermore, a person who has suffered as a result of a fire which has come from another\rquote 
+s land will o
+ften not be in a position to embark upon any investigation as to the origin or cause of the fire, and will certainly have no right to enter upon that land to conduct any such investigation.  That such difficulties in relation to fires have long been recog
+nised appears from a perusal of }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 Voet}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 , 9.2.20, which however relates to fires in buildings.\'94}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn {\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\cs15\lang2057\langfe1033\super\langnp2057\insrsid3160095 \chftn }{\lang2057\langfe1033\langnp2057\insrsid3160095 \tab }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 Quathlamba (Pty.) Ltd. v Minister of Forestry}{
+\lang2057\langfe1033\langnp2057\insrsid3160095  1972 (2) SA 783 (N) at 788B-D.}}}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 In our view, there can be no doubt that a rational relationship is demonstrated between the purpose sought to be achieved by section 84 and the means chosen.   }{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par \sect }\sectd \sbknone\linex0\headery1440\footery1440\sectdefaultcl\sftnbj\saftnnar {\header \pard\plain \qr \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 ACKERMANN J/O}{\f2\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 \uc1\u-4035\'3f}{\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 REGAN J/SACHS J
+\par }\pard \ql \li0\ri0\sl-240\slmult0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }}\pard\plain \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 41}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab Th
+is does not end the matter, because despite the existence of the aforementioned rational relationship between means and purpose, the particular differentiation might still constitute unfair discrimination under the second form of unfair discrimination men
+t
+ioned in section 8(2).  The regulation effected by section 84 in the present case differentiates between owners and occupiers of land in fire control areas and those who own or occupy land outside such areas.  Such differentiation cannot, by any stretch o
+f
+ the imagination, be seen as impairing the dignity of the owner or occupier of land outside the fire control area.  There is likewise no basis for concluding that the differentiation in some other invidious way adversely affects such owner or occupier in 
+a
+ comparably serious manner. It is clearly a regulatory matter to be adjudged according to whether or not there is a rational relationship between the differentiation enacted by section 84 and the purpose sought to be achieved by the Act.  We have decided 
+that such a relationship exists.  Accordingly, no breach of section 8(1) or (2) has been established.
+\par 
+\par }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 CONCLUSION}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 42}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In the result the applicant has not established that section 84 of the Act is in any way inconsistent with the provisions of section 8(1) or (2) or section 25(3)(c) of the interim Constitution.  The case should accordingly be referred back to the Transvaa
+l Provincial Division of the High Court.  No order for costs was asked for, indeed counsel specifically agreed that none should be made, and there is no reason to make one.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 43}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ORDER}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  
+\par }\pard \qj \fi-720\li720\ri720\sl480\slmult1\widctlpar\tx-1440\nooverflow\faroman\rin720\lin720\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 1.\tab It is declared that the provisions
+ of section 84 of the Forestry Act 122 of 1984 are not inconsistent with the interim Constitution.
+\par 2.\tab The case is referred back to the Transvaal Provincial Division of the High Court to be dealt with in the light of this judgment.
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Chaskalson P, Mahomed DP, Goldstone, Kriegler, Langa, Madala, Mokgoro JJ concur in the judgment of Ackermann, O\rquote 
+Regan and Sachs JJ.
+\par 
+\par 
+\par \sect }\sectd \linex0\headery1440\footery1440\sectdefaultcl\sftnbj\saftnnar {\header \pard\plain \qj \li0\ri0\widctlpar\tqr\tx9025\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 \tab DIDCOTT J
+\par }\pard \ql \li0\ri0\sl-240\slmult0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }}\pard\plain \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par DIDCOTT   J:}{\b\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 44}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab The point that has been put to us for our ruling on it in these civil proceedings concerns section 84 of the Forest Act (122 of 1984), which decrees that:
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93When in any action by virtue of the provisions of this Act or the common law the question of neglig
+ence in respect of a veld, forest or mountain fire which occurred on land situated outside a fire control area arises, negligence is presumed, until the contrary is proved.\'94
+\par }\pard \qj \li0\ri0\sl504\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 The section has been invoked in the present litigation, an action awaiting trial 
+before the Transvaal Provincial Division of the Supreme Court, or of the High Court as it is now called, where damages are claimed at common law for the burning by a veld fire of the plaintiff\rquote 
+s orchards and pasturage.  The fire occurred outside a fire control area.  It started on, or ran at all events across, land owned and controlled by the defendant.  It then spread to the plaintiff\rquote 
+s adjoining farm.  The defendant is blamed for the destruction that it wrought there.   He or his servants,  acting in the 
+course of their  employment  by him, are said to have caused that by their negligence.  The effect of the section in all those circumstances, if it survives our adjudication on it, will be to load him with the burden of disproving such negligence when the
+ action goes to trial.   He contends that the section fell foul of the interim Constitution  (Act 200 of 1993),  however,  which was in force
+\par when the proceedings began and continues to govern them.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 1{\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 1}{\insrsid3160095 \tab  Since the case was argued here the interim Constitution
+ has been repealed and replaced by the final one (Act 108 of 1996).  Paragraph 17 of schedule 6 to that, as read with its section 241, ordains that }{\f2\insrsid3160095 \uc1\u-4031\'3f}{\insrsid3160095 
+(a)ll  proceedings which were pending before a court when the new Constitution}{\f2\insrsid3160095 \uc1\u-4032\'3f}{\insrsid3160095  (ie the final one) }{\f2\insrsid3160095 \uc1\u-4031\'3f}{\insrsid3160095 took ef
+fect, must be disposed of as if the new Constitution had not been enacted, unless the interests of justice require otherwise}{\f2\insrsid3160095 \uc1\u-4032\'3f}{\insrsid3160095 .}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  Whether the section was so hit is what we must now decide. 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 45}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The main ground on which th
+e defendant bases his contention is the store that he sets by section 25(3)(c) of the interim Constitution.   No part of that touched civil matters.  It dealt only with criminal prosecutions.  The right to a fair trial was guaranteed by subsection (3),  b
+ut explicitly and solely to persons accused of crimes.   Paragraph (c) then proclaimed the presumption of innocence and the privilege of silence as particular features of that general right, and therefore as those enjoyable under it by such persons alone.
+}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 2{\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 2}{
+\insrsid3160095 \tab Section 35(3)(h) of the final Constitution is expressed in substantially the same terms and its meaning appears to be identical.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  Counsel who represented the defendant maintained that subsection (3)(c) was nevertheless pertinent to the present proceeding
+s.   His argument went like this.   Section 84 covered all matters indiscriminately, embracing civil and criminal ones alike.   It was constitutionally objectionable in its application to criminal cases,  since there it provided for a reverse onus of the 
+k
+ind which, on the very strength of subsection (3)(c), we had condemned in comparable situations posed on several earlier occasions, holding that the reversal violated the presumption of innocence.   The defect tainted the entire section.  It was consequen
+tly invalid as a whole, and thus in a civil as well as a criminal setting.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 46}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+The statute creates a host of crimes and a wide variety also.  Negligence is specified as an element of merely one which has caught my eye, th
+at emerging from section 75(2)(b)(iii).   But it may well become a material factor elsewhere too.   The additional offences that I have in mind are any requiring }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 mens rea }{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 for their commission where }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 culpa }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 serves that purpose.   Room of one size or another c
+ould accordingly have been found for the accommodation within section 84 of criminal prosecutions.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 47}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Whether the space was filled is a different matter.   That sounds doubtful, to say the least.   Section 84 speaks of \'93any action\'94, not of \'93any proceedings\'94
+ as its statutory predecessors did in section 23 of the Forest Act (72 of 1968) and section 26 of the Forest and Veld Conservation Act (13 of 1941).     The word \'93action\'94, when used with reference to forms of  legal pr
+ocedure, denotes in common parlance the civil type.   One does not normally describe a criminal prosecution as an \'93action\'94
+, and we were told of no other legislation which had attached that label to any.   Nor have I managed to find a single reported case w
+here section 84  has been brought to bear on criminal proceedings.   The current statute seems itself, I mention in parenthesis, to recognise the distinction in terminology.  For section 83(1), which enacts its own separate presumption, applies that speci
+fically to every  \'93prosecution  for  an offence\'94.   The defendant\rquote s counsel drew our  attention to  the word \'93geding\'94, which appeared in the Afrikaans text of  section 84 as the  counterpart  to \'93action\'94
+ and tended to have broader connotations.  The English
+ text was the one signed.   But that is not a conclusive consideration.  The Afrikaans version remains relevant, even so,  to the interpretation of the section.  Yet it takes the matter no further.  The reason is a helpful rule of statutory construction c
+a
+tering for the situation that we have here, where the one text happens to be couched in terms which are wider than but encompass those of  the other.   The texts must then be reconciled, ordinarily at any rate and especially when they impose fresh burdens
+, by attributing to the legislation the narrower meaning, since that is the denominator common to both.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 3{\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 3}{\insrsid3160095 \tab See}{\i\insrsid3160095  New Union Goldfields Ltd v Commissioner for Inland Revenue}{\insrsid3160095 
+ 1950(3) SA 392 (A) at 406C-H; }{\i\insrsid3160095 Whitla v Standerton Town Council}{\insrsid3160095  1952(3) SA 567 (T) at 571G-572A;}{\i\insrsid3160095  Santam Versekeringsmaatskappy Bpk v Kemp}{\insrsid3160095  1971(3) SA 305 (A) at 320H; }{
+\i\insrsid3160095 S v Moroney}{\insrsid3160095  1978(4) SA 389 (A) at 407H-408G; }{\i\insrsid3160095 Mpisi v}{\insrsid3160095  }{\i\insrsid3160095 Trebble}{\insrsid3160095  1994(2) SA 136 (A) at 142I-143D.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   It follows that, if the English version envisages nothing but a civil \'93action\'94, the rule requires \'93geding\'94 to be read in the same way so that the two words may match each other.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 48}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Let us suppose, however, that \'93action\'94 like \'93geding\'94 is a word quite capable in such a context of  identifying eithe
+r a civil one alone or any legal proceedings, including the criminal sort, and furthermore that their interpretation in that second and wider sense, if chosen, would result in the incompatibility of section 84 with section 25(3)(c).   Another rule of stat
+utory construction would then come into play and eliminate the choice, a special rule which section 35(2) of the interim Constitution dictated when, with regard  to the Chapter containing section 25(3)(c), it stipulated that:
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93No law which limits any of th
+e rights entrenched in this Chapter shall be constitutionally invalid solely by reason of the fact that the wording used }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 prima facie}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+ exceeds the limits imposed in this Chapter, provided such a law is reasonably capable of a more restricted interpretation w
+hich does not exceed such limits, in which event such law shall be construed as having a meaning in accordance with the said more restricted interpretation.\'94
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 So that rule too would enjoin us, on the supposition which I have made, to avoid a clash between 
+section 84 and section 25(3)(c) by putting on both words the interpretation that restricted their ambit to civil cases only.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 49}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Nor, in any event, would the defendant\rquote 
+s case have prospered from the success of his counsel in persuading us that section 84 did cover criminal prosecutions and collided with section 25(3)(c) by doing so.  A declaration of nullity that dealt solely with the application of section 84 to those 
+particular proceedings would then have been the maximum that he could  obtain.  For section 98(5) of the interim Constitution empowered us to go no further in condemning any law than its invalidation \'93to the extent of its inconsistency\'94
+ with a constitutional command.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 4{\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 4\tab }{\lang2057\langfe1033\langnp2057\insrsid3160095 That accounted for the limited order issued, for instance, in }{\i\lang2057\langfe1033\langnp2057\insrsid3160095 
+Ferreira  v Levin NO and Others; Vryenhoek and Others v Powell NO and Others:}{\insrsid3160095  para 157: 1996(1) SA 984 (CC) at 1079D-G; 1996(1) BCLR 1 (CC) at 94G-95A.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   The defendant\rquote 
+s lack of any apparent interest in the grant of relief so circumscribed would have disqualified him, what is more, from gaining even that.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 50}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+We need not decide in the end, I believe, whether section 84 purports to affect criminal t
+rials and, if it does, whether section 25(3)(c) forbade that.   I say so because, in my opinion, the reliance placed on that section has no merit on any footing and the main argument advanced on behalf of the defendant must therefore be rejected.  
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 51}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+An alternative objection which the defendant has taken to section 84 then enters the picture.  He protests that its regulation of the civil actions to which it applies, when viewed on their own, was repugnant to section 8 o
+f the interim Constitution.  That section entrenched the right of every person to enjoy \'93equality before the law\'94, to be afforded the \'93equal protection of the law\'94, and not to be \'93unfairly discriminated against, directly or indirectly\'94.}
+{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 5{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 5}{\insrsid3160095 \tab 
+Its counterpart in the final Constitution is section 9.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  The discrimination and inequality now asserted is said to lie in the differentiation between defendants engaged in actions that are governed by section 84  and those involved in all other delictual cases casting no 
+onus of proof on them, to the disadvantage and detriment of the former category.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 52}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Complaints about discrimination and inequality have been heard frequently in the attacks launched here on statutory provisions since we
+ began our work two years ago.  We have found it unnecessary to deal with the point on some occasions, either because jurisdictional or procedural obstacles to its consideration were insuperable or because separate constitutional challenges succeeded.  On
+ others we have disposed of it.  The complaint failed in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 S v Rens.}{\cs15\i\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 6{\footnote \pard\plain 
+\ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 6}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1996(1) SA 1218 (CC); 1996(2) BCLR 155 (CC).}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095    It was upheld in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 S v Ntuli,}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 7{\footnote \pard\plain 
+\ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 7\tab }{\insrsid3160095 1996(1) SA 1207 (CC); 1996(1) BCLR 141 (CC).}}}{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Brink v Kitshoff NO}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 8
+{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 8}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1996(4) SA 197 (CC); 1996(6) BCLR 752 (CC).
+}}}{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 and}{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  }{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 in}{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  Fraser v Children\rquote s Court, Pretoria North, and Others.}{\cs15\i\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 9{\footnote \pard\plain 
+\ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 9}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1997 (2) BCLR 153 (CC).}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095    Not even then, however, have we yet developed a complete and coherent jurisprudence on the subject of equality. Sooner o
+r later, no doubt, we shall have to enunciate one.  But so complex, so subtle and so delicate a task ought not to be undertaken in a case inappropriate for it.  We may otherwise overlook nuances and implications of the principle to which our thoughts are 
+n
+ot immediately attuned.   I do not regard the present case as a suitable opportunity for any such general endeavour.    It suffices for our purposes there,  I consider, to say no more than this.  Mere differentiation can never amount, in itself and on its
+ 
+own, to discrimination or unequal treatment in the constitutional sense.  The law differentiates between categories of people on innumerable scores which sound unobjectionable and may often be unavoidable.   A few examples that spring to mind straight awa
+y
+ are their levels of income at which the rate of the tax assessed on that is fixed, their ages when or the length of their employment before pensions become payable to them, and the criteria for their entitlement to the benefits of social welfare.  What s
+u
+rely counts at least in those and all other instances of differentiation is always how rational in its basis, nature, scope and objectives the particular one appears to be, and sometimes how fair it also looks in those respects.  It follows that I cannot 
+imagine our denunciation of any differentiation which we evaluated as both fair and rational.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 53}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In appraising the differentiation assailed by the defendant we had better try at first to get some clarity in our minds on 
+what section 84 means when, alluding to the set of circumstances which puts into operation the presumption and its accompanying switch in the onus of proof,  it describes that as the one where  \'93the question of negligence . . . arises\'94
+.  The same vague phrase appeared in both section 26 of the 1941 statute and section 23 of the 1968 successor to that, and its scarcely informative use became a topic of judicial discussion in those days.  Watermeyer J had this to say about section 26 in 
+}{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Van Wyk v Hermanus Municipality}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 :}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 10{\footnote \pard\plain 
+\ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 10\tab }{\insrsid3160095 1963(4) SA 285 (C) at 295A-B.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+It may well be, but I express no opinion on the point, that the wide meaning of the section has to be cut down in some way so as to make it operate only where there is some }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 nexus }{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 between the fire and the person alleged to have been negligent, but if so there was in my opinion a sufficiently close }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 nexus}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  shown in the present case arising from the fact that the defendant was the owner, and in control, of the land upon which the fire burned, and that its servants 
+were in attendance and attempted to extinguish it.\'94}{\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl504\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 That passage struck Fannin J in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+Quathlamba (Pty) Ltd v Minister of Forestry}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 11{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\fs18\insrsid3160095 11}{\insrsid3160095 \tab 1972(2) SA 783 (N) at 788E-F}{\fs24\insrsid3160095 .}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  as \'93a useful start to the search for the answers to the questions . . . posed\'94.  Referring t
+o section 23, the one in force by that time, his judgment then commented and elaborated on the ideas which Watermeyer J had voiced by continuing thus:}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 12{\footnote \pard\plain 
+\ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 12}{\fs24\insrsid3160095 \tab }{\insrsid3160095 at 788F-789A.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl312\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93The section does not pro
+vide that whenever negligence is alleged in any proceedings, negligence shall be presumed.  The use of the word \lquote arises\rquote  instead of the verb \lquote is alleged\rquote 
+ does, I think, provide some justification for the suggestion made by Watermeyer J, for it can hardly be said that any question of negligence in respect of a fire will really arise if there is no connection or}{
+\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  nexus}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+ shown to have existed between the fire and the person sought to be fixed with responsibility for it.  But it may be argued with some force, I think, that to require only some }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 nexus}{
+\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  is not enough, for unless the }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 nexus}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+ between the fire and the person alleged to have been negligent is such as to be at the least consistent with negligence, the plaintiff will have taken the matter no further than if h
+e had merely alleged negligence and done no more.  I would prefer, therefore, to suggest that \lquote the question of negligence\rquote  in respect of veld or forest fires can be said properly \lquote to arise\rquote  in any proceedings only where-
+\par (a)\tab negligence is alleged against a party to such proceedings; and
+\par (b)\tab the party making such allegation has established a }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 nexus}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095  or connection, between \tab 
+the fire and the party against whom the allegation is made, which is consistent \tab with such negligence.
+\par Thus where, as here, negligence is alleged against a defendant in civil proceedings and the fire is shown to have spread from the defendant\rquote s property, the presumption created by the section comes into operation against the defendant.\'94
+\par }\pard \qj \li0\ri0\sl504\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 The case went on appeal under the name of }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Minister of F
+orestry v Quathlamba (Pty) Ltd}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 .}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 13{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 13}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1973(3) SA 69 (A).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  Ogilvie Thompson CJ, whose judgment was the sole one delivered then, did not react in so many words to the manner in which Fannin J had approached and treated the problem.  What he in turn said instead follows:}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 14{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 14}{\fs24\insrsid3160095 
+\tab }{\insrsid3160095 at 84C-H.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl312\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+Manifestly the presumption created by the section cannot be invoked merely by averring negligence, without anything more.  The contesting submissions of the parties centre around what additional averment or proof is required of
+ a plaintiff to entitle him to call the presumption in aid.  More specifically, the real enquiry is whether or not the terms of the section embrace the duty of care.  For defendant it was argued that, inasmuch as negligence is the breach of a legal duty, 
+no \lquote question of negligence arises\rquote 
+ unless and until the particular duty of care which a plaintiff claims to have been breached is first established.  Counsel for the plaintiff, on the other hand, submitted that both the duty of care and the breach thereof f
+all within the ambit of the section . . . .  I do not find it necessary for the decision of this appeal to pursue counsel\rquote 
+s above-mentioned conflicting submissions.  For . . . the circumstances that the fire . . . was not shown to have been started by any 
+servant of the defendant, or indeed by any human agency, does not in my opinion by itself relieve the defendant of responsibility for the damage sustained by plaintiff.  Consequently, the latter\rquote 
+s averments of negligence in relation to the fire which cause
+d it damage, coupled with proof that the fire . . . emanated from (and also originated upon) landed property owned and controlled by defendant, sufficed, in my judgment, to bring the case within the ambit of section 23.  The effect of this was that the on
+u
+s thereafter rested upon defendant to show either that in the particular circumstances harm to plaintiff was not, and could not reasonably have been, foreseen or, alternatively, that, notwithstanding the exercise by him of such care as the circumstances r
+easonably required, defendant could not prevent the fire from extending beyond the boundaries of its (}{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 sic}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+) property and occasioning harm to plaintiff.\'94}{\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs24\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 The somewhat different ways in which the two }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Quathlamba}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  judgments had handled section 23 were considered in three subsequent cases.  Leon J expressed the opinion in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Titlestad v Minister of Water Affairs
+}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 15{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 15}{
+\fs24\insrsid3160095 \tab }{\insrsid3160095 1974(3) SA 810 (N) at 814B-C.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  that the judgment of Fannin J had been \'93substantially upheld\'94 by Ogilvie Thompson CJ \'93
+with regard to the proper interpretation of section 23".  So did Kannemeyer JP in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Louw and Others v Long}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 .}{
+\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 16{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 16}{\fs24\insrsid3160095 
+\tab }{\insrsid3160095 1990(3) SA 45 (E) at 54H-I.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   Nestadt JA, on the other hand, took this contrary view in }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+Steenberg v De Kaap Timber (Pty) Ltd}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 :}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 17{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 17}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1992(2) SA 169 (A) at 174I-J.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93Ogilvie Thompson CJ
+ affirmed the principle that the presumption cannot be invoked merely by averring negligence.   The  learned Chief Justice did not, however, adopt the approach of Fannin J.  It was simply held that the additional element required could be satisfied by pro
+of that the fire originated upon land owned and controlled by the defendant.\'94
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {
+\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 54}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab I am not sure about the correct classification of the enquiry into when and how \'93the question of negligence . . . arises\'94
+, whether the ascertainment of that depends at its heart on the interpretation of those words or, as Ogilvie Thompson CJ seems to have considered, on their judicial application in each case to its own particular facts.  Neither}{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  Quathlamba}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  judgment, one then notices, went beyond the facts of that matter by indicating what circumstances, apart from the defendant\rquote 
+s  ownership and control of the land from which the fire had come, would or might augment the bare allegation of negligence sufficiently to trigger t
+he presumption and its consequence.  Nor am I aware of any judicial pronouncement since then which has shed further or fresh light on the difficulties encountered elsewhere in determining how the question of negligence could rightly be thought in the past
+ 
+to arise for the purposes of sections 26 and 23 and can truly be said to do so now for those of section 84.  That problem is obviously not posed by the present case, seen in isolation.   For here the defendant did own and control the land  from which the 
+fire spread to the plaintiff\rquote s farm, with the result that both }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Quathlamba}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ judgments hit him.  We are concerned in this investigation, however, not with the application of the presumption to any individual matter, but in principle with its general operation.
+  Questions potentially relevant to our deliberations at that level are whether, if the necessary process is one of interpretation, section 35(2)}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 18{\footnote \pard\plain 
+\ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 18}{\fs24\insrsid3160095 \tab }{\insrsid3160095 See para 48 above.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  requires us to construe section 84 restrictively on the aspect of it scrutinised now a
+nd whether, if that is not the true area of enquiry, the circumstances setting the presumption in motion can and must be defined more narrowly than they were by either Ogilvie Thompson CJ or Fannin J.  But those questions do not present themselves at this
+ stage.  They will become pertinent to our decision only if and when we conclude eventually that, with the effect attributed in the}{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  Quathlamba}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+ case to its precursor, the section is unconstitutional on the grounds of the second objection to it which the defendant has lodged.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 55}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Something must next be said generally about the onus of proof in civil actions, and especially about its location there, so that we may then proceed to focus within that field on the import of section 84.  Wigmore wrote in his treatise on }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Evidence}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 :}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 19{\footnote \pard\plain \qj \fi-720\li720\ri0\sa237\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 19}{\fs24\insrsid3160095 \tab }{\insrsid3160095 
+Chadbourn revision: vol IX, para 2486 at 287-92.  The American spelling used in the text has been retained in this extract taken from it.  All the footnotes and their numbers listed in the text have been omitted. The italics are mine.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li0\ri0\sl312\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri720\sl360\slmult1\widctlpar\nooverflow\faroman\rin720\lin720\itap0 {\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 \'93
+The characteristic . . . of this burden of proof  (in the sense of a risk of nonpersuasion)  in legal controversies is
+ that the law divides the process into stages and apportions definitely to each party the specific facts which will in turn fall to him as the prerequisites of obtaining action in his favor by the tribunal.  It is this apportionment which forms the import
+a
+nt element of controversy for legal purposes.  Each party wishes to know of what facts he has the risk of nonpersuasion.  By what considerations is this apportionment determined?  Is there any single principle or rule which will solve all cases and afford
+ 
+a general test for ascertaining the incidence of this risk?  By no means.  It is often said that the burden is upon the party having in form the affirmative allegation.  But this is not an invariable test, nor even always a significant circumstance; the b
+u
+rden is often on one who has a negative assertion to prove . . . .  It is sometimes said that it is upon the party  to whose case the fact is essential.  This is correct enough, but it merely advances the inquiry one step; we must then ask whether there i
+s any general principle which determines to what party\rquote 
+s case a fact is essential.  Still another consideration has often been advanced as a special test for solving a limited class of cases, ie the burden of  proving a fact is said to be put on the party w
+ho presumably has peculiar means of knowledge enabling him to prove its falsity if it is false . . . .  But this consideration furnishes no universal working rule . . . .  This consideration, after all, merely takes its place among other considerations of
+ fairness and experience as a most important one to be kept in mind in apportioning the burden of proof in a specific case. }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+ The truth is that there is not and cannot be any one general solvent for all cases.  It is merely a question of policy and fairness based on experience in the different situations }{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+. . . .   There is . . . no one principle, or set of harmonious principles, which afford a sure and universal test for the solution of a given class of cases.  The logic of the situation does not demand such 
+a test; it would be useless to attempt to discover or to invent one; and the state of the law does not justify us in saying that it has accepted any.  }{\i\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 
+ There are merely specific rules for specific classes of cases, resting for their ultimate basis upon broad reasons of experience and fairness}{\fs22\lang2057\langfe1033\langnp2057\insrsid3160095 .\'94
+\par }\pard \qj \li0\ri0\sl480\slmult1\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par I have quoted at length from the book because the state of affairs existing in South Africa echoes exactly, in all its force and resonance, that description of the American one.  Our common law likewise contains no 
+comprehensive rule on the onus of proof in civil proceedings which is inflexibly free from exceptions.  Here too the onus does not always lie upon the plaintiff asserting a claim but, on issues peculiar to the nature of the case, is sometimes borne by the
+ 
+defendant in his or her resistance to that.  One thinks, for instance, of the issues raised when self-defence is pleaded in answer to a claim for damages suffered as the result of an assault, when a contract admitted or proved is said in an action for its
+ 
+enforcement to have been cancelled or novated, when some special defence is presented as a means of escape from liability on a bill of exchange, and when a host of other situations arise in which confessions and avoidances are familiar. Hoffmann and Zeffe
+rtt have discussed the topic in their}{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  South African Law of Evidence}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ,}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 20
+{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 20}{\fs24\insrsid3160095 \tab }{\insrsid3160095 4th edition at 509-13}{
+\fs24\insrsid3160095 .}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  furnishing further examples of an onus placed on the defendant in this country and commenting on the lack of any general theory or policy to account for that si
+te of it which seems logical, coherent and consistent.  It is therefore no surprise to see that the sentences in earlier editions of Wigmore\rquote 
+s work which are matched by the parts of my excerpt from the current one appearing in italics have been reproduced or paraphrased with approval by judges of our Appellate Division, the first passage in }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Mabaso v Felix}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 21{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 21}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1981(3) SA 865 (A) at 873B-D.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  and the second in }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Pillay v Krishna and Another}{\cs15\i\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 22{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 22}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1946 AD 946 at 953-4.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  and }{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Nydoo en Andere v Vengtas}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 .}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 23{\footnote \pard\plain 
+\ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 23}{\fs24\insrsid3160095 \tab }{\insrsid3160095 1965(1) SA 1 (A) at 21H-22A.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 56}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+In our adversarial system of civil litigation one side or the other has to bear the onus of proof.  Differentiation between the parties in that regard is thus inevitable.  So is the disa
+dvantage under which the side carrying the load often labours.  Its location for specific issues depends not on doctrinaire considerations, but on wholly pragmatic ones.  Veld, forest and mountain fires are calamities with which our country is well acquai
+n
+ted, and their consequences are frequently disastrous.  In enacting section 84 Parliament evidently believed that the defendants embroiled in the actions which it defined were shown by experience to be better placed than the plaintiffs suing them, by and 
+l
+arge, for investigations into and the ascertainment of the causes, origins and progress of such fires when they occurred  beyond the strict  supervision  inside  fire  control areas  that  was planned.  The position of the same defendants was apparently t
+h
+ought in addition to be distinguishable, on the whole, from that occupied by other defendants opposing delictual claims, the general run of those in the first place and the particular group in the second who were blamed for fires that had started on or em
+a
+nated from land lying within fire control areas.  For no comparably peculiar knowledge or sources of information about the detailed causation of the harmful incidents resulting in the litigation could realistically be imputed, as a rule, to so vast and am
+orphous a category of defendants as the first lot.  That goes without saying, given the infinite variety of circumstances relevant to the suits brought against them.  Nor, when it came to the second category of defendants, would a}{
+\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  prima facie}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  responsibility
+ imposed upon them have been warranted in the conditions prevailing throughout the controlled areas, where fire protection schemes operated, where measures devised to prevent conflagrations and their spread were in force, and where compliance with those w
+a
+s both compulsory and verifiable.  That is a situation quite unlike the sort encountered elsewhere in which individual landowners are largely left to take their own precautions and they alone know what has or has not been done in that connection.   We may
+ 
+agree or disagree, as we prefer, with the generality of those beliefs or with the way in which effect was given to them.  But the assessment was one falling well within the zone of an essentially legislative judgment.  I can find no substance whatsoever i
+n the suggestion that the reaction of Parliament to the scene which it saw was either unfair or irrational once that is viewed in the light of the }{\i\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 Quathlamba}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  decisions.  It follows,  in my opinion,  that on this leg of the course the defendant has fallen at the first hurdle.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 57}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab 
+Two questions which my judgment leaves open, and a couple of possibilities occurring to me that it does not dismiss, will be mentioned in conclusion.  The first question concerns the relationship b
+etween our constitutional provisions proclaiming the right to equality before and the equal protection of the law on the one hand and prohibiting unfair discrimination on the other.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 24
+{\footnote \pard\plain \ql \fi-720\li720\ri0\sa237\widctlpar\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 24\tab }{\insrsid3160095 
+The interim Constitution catered for the right in section 8(1) and for
+ the prohibition in section 8(2).  That textual pattern has been repeated in the final Constitution, which attends to the right in section 9(1) and to the prohibition in sections 9(3) and 9(4).}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+  It is whether the prohibition forms a corollary to the right which amplifies that or an independent and self-contained provision.}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 25{\footnote \pard\plain \ql \fi-720\li720\ri0\widctlpar
+\tx-1440\nooverflow\faroman\rin0\lin720\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 25\tab }{\insrsid3160095 The same question was raised but not decided in }{\i\insrsid3160095 S v Ntuli}{\insrsid3160095 
+: see footnote 7 above: para 18 at 1214D
+\par }\pard \ql \fi720\li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\insrsid3160095  in the first report cited there and at 150F-G in the second one.}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095   The second quest
+ion asks whether the criterion of rationality suits the right alone while the one of fairness fits only the prohibition, or whether both criteria are apt for each.  Neither question needs to be decided for the time being, since the defendant\rquote 
+s case must fa
+il irrespective of the true answer to it.  I have accordingly tried to express myself in a manner which avoids suggesting a definite stance taken yet on either point.  The possibilities to which I have referred, merely hypothetical ones at present, are th
+e
+se.  The right to equality and the prohibition against unfair discrimination may well have an impact on the civil onus of proof in the highly imaginary situation where a class of litigants is generally saddled with or freed from the burden on account of t
+h
+eir personal identities, and with no regard to the exigencies of any particular litigation or to the equipment for such of those persons or institutions.  A civil onus may also be vulnerable to attack outside the perimeters of that right and prohibition, 
+and on grounds laid elsewhere by the bill of rights,}{\cs15\fs26\lang2057\langfe1033\super\langnp2057\insrsid3160095 26{\footnote \pard\plain \ql \li0\ri0\sa237\widctlpar\nooverflow\faroman\rin0\lin0\itap0 
+\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs18\insrsid3160095 26}{\fs24\insrsid3160095 \tab }{\insrsid3160095 That is a reference to Chapter 3 of the interim Constitution and Chapter 2 of the final one, viewed \tab in turn.}}}{
+\fs26\lang2057\langfe1033\langnp2057\insrsid3160095  once i
+ts incidence impedes the enforcement or defence of any other right entrenched there.  Neither possibility is elevated by this case, however, to a real one.  To expatiate on either is therefore unnecessary now.
+\par 
+\par [}{\field{\*\fldinst {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 SEQ ParaNumbers1_0 \\* Arabic \\n}}{\fldrslt {\fs26\lang1024\langfe1024\noproof\langnp2057\insrsid11865221 58}}}{\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 ]\tab In the
+ result I concur in the grant of the order which Ackermann J, O\rquote 
+Regan J and Sachs J propose in their joint judgment, the final draft of which I have read since writing this one of mine.  The two judgments differ sometimes in their approach to the issues ca
+nvassed, in their emphasis and in the extent to which they elaborate on their reasoning, but not otherwise as far as I can see.  The clearest difference is visible where I have felt able to reach a confident conclusion on the second part of the case witho
+u
+t analysing in similar detail either the concepts of equality and non-discrimination or their constitutional interaction.  I do not dissent, however, from the opinions which my colleagues have expressed on those points.  And I had better add, since nothin
+g has yet been said by me  about the referral, that I share the view of that taken by them.
+\par \sect }\sectd \linex0\headery1440\footery1440\sectdefaultcl\sftnbj\saftnnar {\header \pard\plain \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24\insrsid3160095 
+\par }}\pard\plain \qj \fi-3600\li3600\ri0\widctlpar\tx-1440\nooverflow\faroman\rin0\lin3600\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 For the applicant :\tab \tab \tab 
+Mr D Mills, instructed by Gildenhuys van der Merwe Inc.
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par 
+\par }\pard \qj \fi-3600\li3600\ri0\widctlpar\tx-1440\nooverflow\faroman\rin0\lin3600\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 For the first respondent :\tab \tab No appearance.
+\par }\pard \qj \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \li720\ri0\widctlpar\nooverflow\faroman\rin0\lin720\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 
+\par }\pard \qj \fi-3600\li3600\ri0\widctlpar\tx-1440\nooverflow\faroman\rin0\lin3600\itap0 {\fs26\lang2057\langfe1033\langnp2057\insrsid3160095 For the second respondent:\tab \tab Mr JP Vorster, instructed by the State Attorney, Pretoria.
+\par }}

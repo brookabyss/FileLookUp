@@ -17,7 +17,7 @@ namespace CheckForWordUsage
                 string folderPath = CreateSupportTempFolder();
                 if (folderPath != null)
                 {
-                    string filePath = folderPath + "//" + csvPath;
+                    string filePath = folderPath + "/" + csvPath;
 
                     var csv = new StringBuilder();
                     csv.AppendLine(headers);
